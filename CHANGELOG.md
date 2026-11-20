@@ -2,7 +2,8 @@
 
 ## 2026-11-20
 
-- 月兔 VPN（Tsuki）：新增至「已跟踪但价格未公开」。官网 https://buddahs-temptation.win/tsuki 于 2026-11-20 只读访问确认可达（跳转至登录页 /tsuki/login；/tsuki/learn 公开可读）。套餐价格需登录后查看，不记入 data/airports.csv。
+- 月兔 VPN（Tsuki）：官网 https://buddahs-temptation.win/tsuki 于 2026-11-20 只读访问确认可达（跳转至登录页 /tsuki/login；/tsuki/learn 公开可读）。官网价目仍须登录后查看。
+- 同日收录品牌方提供的价目图 docs/assets/tsuki-price-2026-11-20.png，README 按图转录总价：轻量 100G/30 天为 30/90/390 天 12/32/108 元；标准 200G/30 天为 18/51/168 元；畅享 660G/30 天为 25/72/199 元。390 天为 13×30 天。该图不是官网公开价目，未写入 data/airports.csv。
 
 ## 2026-11-12
 
